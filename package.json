@@ -1,0 +1,16 @@
+{
+  "name": "matier",
+  "version": "0.0.1",
+  "description": "Match on expressions with matchers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["javascript"],
+  "author": {
+    "name": "Gustavo Fernandes dos Santos",
+    "email": "gfdsantos@protonmail.com",
+    "url": "https://github.com/gustavofsantos"
+  },
+  "license": "ISC"
+}
